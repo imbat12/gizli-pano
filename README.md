@@ -51,13 +51,9 @@ On top of that, whenever you make a normal copy, a small translucent **hassas** 
 https://github.com/user-attachments/assets/15b6f7e6-5086-4d55-8234-179b26bd4c92
 
 ---
-**Shift + c, Shift + v, Shift + d**
+**Shift + C , Shift + V , Shift + D**
 
 https://github.com/user-attachments/assets/7d449b7b-787b-454c-b2d8-10378ae280c1
-
-
-
-
 
 
 ---

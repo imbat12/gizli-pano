@@ -50,7 +50,7 @@ On top of that, whenever you make a normal copy, a small translucent **hassas** 
 
 ## Requirements
 
-Windows 10 or 11 and [AutoHotkey v2](https://www.autohotkey.com/). The v1 syntax is not compatible; the script must be run with v2.
+Windows 10 or 11 and [AutoHotkey v2](https://www.autohotkey.com/v2/). The v1 syntax is not compatible; the script must be run with v2.
 
 ---
 

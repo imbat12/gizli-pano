@@ -50,7 +50,7 @@ Bunlara ek olarak, normal bir kopyalama yaptığında imlecin yanında küçük 
 
 ## Gereksinimler
 
-Windows 10 veya 11 ve [AutoHotkey v2](https://www.autohotkey.com/). v1 sözdizimi uyumlu değildir, betik v2 ile çalıştırılmalıdır.
+Windows 10 veya 11 ve [AutoHotkey v2](https://www.autohotkey.com/v2/). v1 sözdizimi uyumlu değildir, betik v2 ile çalıştırılmalıdır.
 
 ---
 

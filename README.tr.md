@@ -48,6 +48,16 @@ Bunlara ek olarak, normal bir kopyalama yaptığında imlecin yanında küçük 
 
 ---
 
+https://github.com/user-attachments/assets/15b6f7e6-5086-4d55-8234-179b26bd4c92
+
+---
+**Shift + C , Shift + V , Shift + D**
+
+https://github.com/user-attachments/assets/7d449b7b-787b-454c-b2d8-10378ae280c1
+
+
+---
+
 ## Gereksinimler
 
 Windows 10 veya 11 ve [AutoHotkey v2](https://www.autohotkey.com/v2/). v1 sözdizimi uyumlu değildir, betik v2 ile çalıştırılmalıdır.

@@ -46,11 +46,12 @@ On top of that, whenever you make a normal copy, a small translucent **hassas** 
 
 **History is memory only.** 20 entries, each expiring after 10 minutes. No disk writes, no log, no vault file — when the script exits, nothing remains.
 
-
+---
 
 https://github.com/user-attachments/assets/15b6f7e6-5086-4d55-8234-179b26bd4c92
 
-
+---
+**Shift + c, Shift + v, Shift + d**
 https://github.com/user-attachments/assets/7d449b7b-787b-454c-b2d8-10378ae280c1
 
 
